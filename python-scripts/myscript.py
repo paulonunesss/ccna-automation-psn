@@ -11,8 +11,9 @@
    auxilio da Inteligencia Artificial do Claude (Anthropic), como
    parte do meu aprendizado e do meu primeiro repositorio no GitHub.
 
- Autor : Paulo Sergio
+ Autor : Paulo Sergio Nunes da Silva
  Data  : 07/06/2026
+ SO: Linux Zorin OS 18
 =====================================================================
 """
 
