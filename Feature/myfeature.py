@@ -151,3 +151,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+print("Welcome to the world of CCNA Automation with Python! 🚀")
